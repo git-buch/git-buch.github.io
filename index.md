@@ -6,14 +6,17 @@ title: Git - Projektverwaltung für Entwickler und DevOps-Teams
 
 ![Git](https://github.com/git-buch.png)
 
-Erscheint: Ende August 2020  
-Umfang: 416 Seiten  
-ISBN: 978-3-8362-7186-8  
-Preis: Euro 39,90 (in D inkl. MWSt.)  
+Erschienen: Ende April 2022 (2. Auflage)
+Umfang: 424 Seiten
+ISBN: 978-3-8362-8845-3
+Preis: Euro 39,90 (in D inkl. MWSt.)
 
-Autoren: [Bernd Öggl](https://komplett.cc) und [Michael Kofler](https://kofler.info)
+Autoren: [Bernd Öggl](https://webman.at) und [Michael Kofler](https://kofler.info)
 
 [Buchseite beim Rheinwerk Verlag](https://www.rheinwerk-verlag.de/git_4943/?GPP=kofler)
+
+**English edition**: This book has been translated. The English edition is
+available at [www.sap-press.com](https://www.sap-press.com/git_5555/).
 
 ### Inhalt
 
@@ -40,7 +43,11 @@ In unserem Buch erklären wir Ihnen, wie Git wirklich funktioniert. Wir zeigen
 Ihnen anhand vieler Beispiele die effiziente Nutzung in der Praxis sowie
 gängige Arbeitstechniken. Dabei berücksichtigen wir, dass Git heute mehr ist
 als das gleichnamige Kommando. Erst im Zusammenspiel mit Plattformen wie GitLab
-oder GitHub entfaltet Git sein ganzes Potential.  
+oder GitHub entfaltet Git sein ganzes Potential.
+
+Für die 2. Auflage haben wir das Buch vollständig aktualisiert. Neue Themen
+sind die Umstellung des Defaultzweigs von master nach main, der Umgang mit
+Tokens sowie GitPods und Codespaces.
 
 ### Kapitelübersicht
 
@@ -64,7 +71,8 @@ oder GitHub entfaltet Git sein ganzes Potential.
 
 Zu diesem Buch gibt er einige Beispiel-Repositorys, die Sie hier finden:
 
-<https://github.com/git-buch>
+Für die 1. Auflage: <https://github.com/git-buch>
+Für die 2. Auflage: <https://github.com/git-compendium>
 
 ### Leseprobe und Errata
 
