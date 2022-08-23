@@ -5,7 +5,7 @@ title: "Git-Buch: Kapitel"
 date: 2020-04-27T15:39:17+0200
 ---
 
-## Vorläufige Kapitelübersicht
+## Kapitelübersicht
 
 * Git in zehn Minuten: der Schnelleinstieg
 * Installation und Einrichtung

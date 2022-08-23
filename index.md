@@ -6,9 +6,9 @@ title: Git - Projektverwaltung für Entwickler und DevOps-Teams
 
 ![Git](https://github.com/git-buch.png)
 
-Erschienen: Ende April 2022 (2. Auflage)
-Umfang: 424 Seiten
-ISBN: 978-3-8362-8845-3
+Erschienen: Ende April 2022 (2. Auflage)  
+Umfang: 424 Seiten  
+ISBN: 978-3-8362-8845-3  
 Preis: Euro 39,90 (in D inkl. MWSt.)
 
 Autoren: [Bernd Öggl](https://webman.at) und [Michael Kofler](https://kofler.info)
@@ -80,4 +80,3 @@ Eine PDF mit Inhaltsverzeichnis und Vorwort finden Sie hier:
 
 <https://kofler.info/buecher/git>
 
-Demnächst wird es auf dieser Seite auch eine längere Leseprobe sowie eine Zusammenstellung aller Errata geben.
