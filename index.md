@@ -11,7 +11,7 @@ Umfang: 424 Seiten
 ISBN: 978-3-8362-8845-3  
 Preis: Euro 39,90 (in D inkl. MWSt.)
 
-Autoren: [Bernd Öggl](https://webman.at) <a href="https://webmapping.social/@bernd" aria-label="mastodon bö" rel="me">🐘</a> und [Michael Kofler](https://kofler.info)
+Autoren: [Bernd Öggl](https://webman.at) <a href="https://webmapping.social/@bernd" aria-label="mastodon bö" rel="me">🐘</a> und [Michael Kofler](https://kofler.info) <a href="https://home.social/@michaelkofler" aria-label="mastodon mk">🐘</a>
 
 [Buchseite beim Rheinwerk Verlag](https://www.rheinwerk-verlag.de/git_4943/?GPP=kofler)
 
